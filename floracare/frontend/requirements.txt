@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+a2a-sdk>=1.0.0,<2.0.0
+httpx
+google-auth
+protobuf
